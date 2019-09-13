@@ -25,3 +25,6 @@ Und hier noch ein Text mehr...
 Neuer Pull Test 02 von Marc
 
 Hallo Welt
+
+Super Demo für die Gruppe El Frigo Digial (unsere Konkurrenz)
+
