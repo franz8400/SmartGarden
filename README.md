@@ -1,5 +1,6 @@
 # SmartGarden
 The best SmartGarden ever, ever ever ever
+<<<<<<< HEAD
 
 
 SmartGarden Meindmeister Link
