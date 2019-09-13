@@ -2,7 +2,7 @@
   margin:0px;
   background-image:none;
   position:relative;
-  left:-140px;
+  left:-138px;
   width:140px;
   margin-left:auto;
   margin-right:auto;
@@ -37,8 +37,8 @@
 #u5 {
   border-width:0px;
   position:absolute;
-  left:140px;
-  top:36px;
+  left:138px;
+  top:55px;
   width:140px;
   height:40px;
   display:flex;
