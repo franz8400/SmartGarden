@@ -26,5 +26,5 @@ Neuer Pull Test 02 von Marc
 
 Hallo Welt
 
-Super Demo für die Gruppe El Frigo Digial (unsere Konkurrenz)
+Super Demo für die Gruppe El Frigo Digial (unsere Mitbewerber und super Klassenkameradinnen)
 
