@@ -63,6 +63,14 @@
 .paragraph {
   text-align:left;
 }
+.text_field {
+  color:#000000;
+  text-align:left;
+}
+.droplist {
+  color:#000000;
+  text-align:left;
+}
 .form_hint {
   color:#999999;
 }
