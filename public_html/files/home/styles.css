@@ -24,13 +24,14 @@
   width:200px;
   height:200px;
   background:inherit;
-  background-color:rgba(245, 154, 35, 1);
+  background-color:rgba(217, 0, 27, 1);
   border:none;
   border-radius:8px;
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
   font-size:30px;
+  color:#FFFFFF;
 }
 #u0 {
   border-width:0px;
@@ -41,6 +42,7 @@
   height:200px;
   display:flex;
   font-size:30px;
+  color:#FFFFFF;
 }
 #u0 .text {
   position:absolute;
@@ -64,6 +66,7 @@
   -webkit-box-shadow:none;
   box-shadow:none;
   font-size:30px;
+  color:#FFFFFF;
 }
 #u0.mouseOver {
 }
@@ -80,13 +83,14 @@
   width:200px;
   height:200px;
   background:inherit;
-  background-color:rgba(245, 154, 35, 1);
+  background-color:rgba(217, 0, 27, 1);
   border:none;
   border-radius:8px;
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
   font-size:30px;
+  color:#FFFFFF;
 }
 #u1 {
   border-width:0px;
@@ -97,6 +101,7 @@
   height:200px;
   display:flex;
   font-size:30px;
+  color:#FFFFFF;
 }
 #u1 .text {
   position:absolute;
@@ -120,6 +125,7 @@
   -webkit-box-shadow:none;
   box-shadow:none;
   font-size:30px;
+  color:#FFFFFF;
 }
 #u1.mouseOver {
 }
